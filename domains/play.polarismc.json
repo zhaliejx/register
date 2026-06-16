@@ -1,7 +1,7 @@
 {   "title": "polarismc minecraft server",
     "description": "polarismc minecraft server",
-    "domain": ".lol",
-    "subdomain": "play.polarismc",
+    "domain": "creeper.sbs",
+    "subdomain": "polarismc",
 
     "country_code": "none",
     
@@ -14,7 +14,7 @@
         "spare_record": ["none"],
            "A": "172.236.152.17",
         "SRV": [
-            { "priority": 10, "weight": 60, "port": 25565, "target": "play.polarismc.lol" }
+            { "priority": 10, "weight": 60, "port": 25565, "target": "polarismc.creeper.sbs" }
         ]
     },
  "proxy": false
