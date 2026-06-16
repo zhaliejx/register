@@ -1,0 +1,21 @@
+{   "title": "polarismc minecraft server",
+    "description": "polarismc minecraft server",
+    "domain": ".lol",
+    "subdomain": "play.polarismc",
+
+    "country_code": "none",
+    
+    "owner": {
+        "github_user": "https://github.com/zhaliejx",
+        "email": "johanvoncd7@gmail.com"
+    },
+    
+    "record": {
+        "spare_record": ["none"],
+           "A": "172.236.152.17",
+        "SRV": [
+            { "priority": 10, "weight": 60, "port": 25565, "target": "play.polarismc.lol" }
+        ]
+    },
+ "proxy": false
+}
